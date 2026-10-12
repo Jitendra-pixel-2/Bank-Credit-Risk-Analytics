@@ -1,0 +1,5 @@
+Risk_Grade,Total_Customers,Total_Loan_Amount,Total_Default_Amount,Default_Rate_Pct
+"Low Risk",19368,178802000,0,0.00
+"High Risk (Defaulter)",5157,58497450,58497450,100.00
+"Medium Risk",377,7127450,0,0.00
+"High Risk",28,347300,0,0.00
